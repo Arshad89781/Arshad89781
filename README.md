@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Arshad89781
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning dot net
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi, I’m Syed Arshad Alisha
+- 👀 I’m working as data science in kanini software solution pvt ltd
 - 📫 How to reach me +91 8978140192
 
 <!---
